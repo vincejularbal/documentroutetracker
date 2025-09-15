@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             DocumentroutetrackerTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Project 2 Team",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     DocumentroutetrackerTheme {
-        Greeting("Android")
+        Greeting("Project 2 Team")
     }
 }
