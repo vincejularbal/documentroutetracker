@@ -23,6 +23,9 @@ The **Document Route Tracking Mobile App** is designed to solve the problem of m
 - Winsley Jeune  
 - Yawogan Abraham Nyuiadzi  
 
+## Favorite Quote
+"The only way to do great work is to love what you do." - Steve Jobs
+  
 ## ⏰ Meeting Schedule
 - **Wednesdays, 0:00 AM (UTC-0)**
 
